@@ -12,7 +12,7 @@ size_range = (50000, 500000)
 
 # Generar los datos aleatorios
 data = {
-    "Is_Holiday": np.random.randint(is_holiday_range[0], is_holiday_range[1] + 1, cantidad),
+    "IsHoliday": np.random.randint(is_holiday_range[0], is_holiday_range[1] + 1, cantidad),
     "Dept": np.random.randint(dept_range[0], dept_range[1] + 1, cantidad),
     "Temperature": np.random.uniform(temperature_range[0], temperature_range[1], cantidad).round(2),
     "Type": np.random.randint(type_range[0], type_range[1] + 1, cantidad),

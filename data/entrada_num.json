@@ -1,104 +1,104 @@
 [
     {
-        "Is_Holiday": 1,
+        "IsHoliday": 1,
         "Dept": 22,
         "Temperature": 11.96,
         "Type": 2,
         "Size": 295884
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 42,
         "Temperature": 9.71,
         "Type": 2,
         "Size": 405630
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 8,
         "Temperature": 6.7,
         "Type": 1,
         "Size": 245334
     },
     {
-        "Is_Holiday": 1,
+        "IsHoliday": 1,
         "Dept": 13,
         "Temperature": 18.95,
         "Type": 3,
         "Size": 245014
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 26,
         "Temperature": -9.7,
         "Type": 1,
         "Size": 410783
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 33,
         "Temperature": 10.57,
         "Type": 3,
         "Size": 116566
     },
     {
-        "Is_Holiday": 1,
+        "IsHoliday": 1,
         "Dept": 34,
         "Temperature": 27.88,
         "Type": 2,
         "Size": 281864
     },
     {
-        "Is_Holiday": 1,
+        "IsHoliday": 1,
         "Dept": 45,
         "Temperature": -1.92,
         "Type": 2,
         "Size": 398908
     },
     {
-        "Is_Holiday": 1,
+        "IsHoliday": 1,
         "Dept": 1,
         "Temperature": 21.52,
         "Type": 1,
         "Size": 373749
     },
     {
-        "Is_Holiday": 1,
+        "IsHoliday": 1,
         "Dept": 4,
         "Temperature": 18.7,
         "Type": 3,
         "Size": 348627
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 4,
         "Temperature": 14.56,
         "Type": 1,
         "Size": 449351
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 45,
         "Temperature": 29.6,
         "Type": 1,
         "Size": 342019
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 24,
         "Temperature": 22.61,
         "Type": 3,
         "Size": 260868
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 41,
         "Temperature": 5.57,
         "Type": 3,
         "Size": 142054
     },
     {
-        "Is_Holiday": 0,
+        "IsHoliday": 0,
         "Dept": 42,
         "Temperature": -3.86,
         "Type": 2,
