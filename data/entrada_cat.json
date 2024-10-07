@@ -1,0 +1,122 @@
+[
+    {
+        "Dept": 15,
+        "Temperature": 17.5,
+        "Type": 1,
+        "Size": 112547,
+        "Event_Type": 5,
+        "Season": 1
+    },
+    {
+        "Dept": 4,
+        "Temperature": 28.15,
+        "Type": 1,
+        "Size": 240567,
+        "Event_Type": 4,
+        "Season": 3
+    },
+    {
+        "Dept": 22,
+        "Temperature": 14.93,
+        "Type": 1,
+        "Size": 165777,
+        "Event_Type": 2,
+        "Season": 3
+    },
+    {
+        "Dept": 39,
+        "Temperature": -1.44,
+        "Type": 2,
+        "Size": 243447,
+        "Event_Type": 2,
+        "Season": 2
+    },
+    {
+        "Dept": 16,
+        "Temperature": -7.51,
+        "Type": 1,
+        "Size": 193790,
+        "Event_Type": 2,
+        "Season": 2
+    },
+    {
+        "Dept": 38,
+        "Temperature": 31.85,
+        "Type": 2,
+        "Size": 176659,
+        "Event_Type": 1,
+        "Season": 4
+    },
+    {
+        "Dept": 9,
+        "Temperature": 8.49,
+        "Type": 3,
+        "Size": 143490,
+        "Event_Type": 4,
+        "Season": 1
+    },
+    {
+        "Dept": 30,
+        "Temperature": -12.29,
+        "Type": 1,
+        "Size": 256811,
+        "Event_Type": 5,
+        "Season": 4
+    },
+    {
+        "Dept": 3,
+        "Temperature": 3.08,
+        "Type": 2,
+        "Size": 212946,
+        "Event_Type": 5,
+        "Season": 1
+    },
+    {
+        "Dept": 5,
+        "Temperature": 4.88,
+        "Type": 1,
+        "Size": 186283,
+        "Event_Type": 4,
+        "Season": 3
+    },
+    {
+        "Dept": 33,
+        "Temperature": 32.04,
+        "Type": 3,
+        "Size": 172775,
+        "Event_Type": 4,
+        "Season": 3
+    },
+    {
+        "Dept": 24,
+        "Temperature": 6.23,
+        "Type": 3,
+        "Size": 446514,
+        "Event_Type": 2,
+        "Season": 4
+    },
+    {
+        "Dept": 22,
+        "Temperature": 5.15,
+        "Type": 2,
+        "Size": 368569,
+        "Event_Type": 5,
+        "Season": 2
+    },
+    {
+        "Dept": 1,
+        "Temperature": 29.81,
+        "Type": 3,
+        "Size": 188119,
+        "Event_Type": 3,
+        "Season": 4
+    },
+    {
+        "Dept": 13,
+        "Temperature": -7.08,
+        "Type": 3,
+        "Size": 280556,
+        "Event_Type": 2,
+        "Season": 2
+    }
+]
